@@ -11,8 +11,8 @@ a user can view a summary of inventory levels for items remaining in the system 
 
 ### Getting started
 
-#### Instillation for Dev Environment
+#### Installation for Dev Environment
 1. Make sure you've installed JDK 8 and Android Studio, a Standard Setup would work.
 2. Clone this GitHub repository.
 3. In Android Studio click File--> New--> Project From Version Control --> GitHub. Paste the link in Git Repository URL.
-4. The Application uses API 21 Lollipop. I prefer the Pixel Emulator and API 28 in the editor. Changing emulators may effect some styling.
+4. The Application uses API 21 Lollipop. I prefer the Pixel Emulator and API 28 in the editor. Changing emulators may affect some styling.
