@@ -10,13 +10,9 @@ for those items. Print Manifest prints out the balance for all customers and wha
 a user can view a summary of inventory levels for items remaining in the system with Current Inventory. 
 
 ### Getting started
-This Application uses the Gradle build system
 
-#### Prerequisites
-  - Android SDK v28
-  - Latest Android Build Tools
-  
 #### Instillation for Dev Environment
-1. Download the project by cloning the HTTP key. Copy the link to the repository
-2. In Android Studio click File--> New--> Project From Version Control --> GitHub. Paste the link in Git Repository URL.
-3. The Application uses API 21 Lollipop. I prefer the Pixel Emulator and API 28 in the editor. Changing emulators may effect some styling.
+1. Make sure you've installed JDK 8 and Android Studio, a Standard Setup would work.
+2. Clone this GitHub repository.
+3. In Android Studio click File--> New--> Project From Version Control --> GitHub. Paste the link in Git Repository URL.
+4. The Application uses API 21 Lollipop. I prefer the Pixel Emulator and API 28 in the editor. Changing emulators may effect some styling.
