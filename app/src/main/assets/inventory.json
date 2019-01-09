@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "5c300dd4317363b8f95510cd",
+    "guid": "82f6bf94-b2d2-455a-8a8e-8627ebf62b3a",
+    "qty": 10,
+    "value": "$22,174.54",
+    "name": "JackHammer",
+    "company": "KIOSK",
+    "about": "Culpa laborum laborum reprehenderit eu adipisicing occaecat. Aliquip occaecat do Lorem dolor amet officia dolor incididunt duis. Minim nulla fugiat anim minim duis ullamco officia nulla non ut. Aute fugiat consectetur amet sit exercitation elit excepteur enim minim ipsum nostrud in aliquip eu. Fugiat laboris cillum non sit pariatur quis. Quis dolore esse magna enim nostrud cupidatat eiusmod pariatur et Lorem anim deserunt non. Est reprehenderit voluptate nulla do aute voluptate.\r\n",
+    "tags": [
+      "extraction",
+      "power tool",
+      "requires certification"
+    ]
+  },
+  {
+    "_id": "5c300dd4d04c5a19cf4e8972",
+    "guid": "6fad35fe-d4a2-4e93-ae64-422e1280ca19",
+    "qty": 9,
+    "value": "$30,031.80",
+    "name": "Electric Wheel Barrel",
+    "company": "REMOLD",
+    "about": "Nisi do qui enim voluptate do consequat occaecat non duis proident nisi. Elit minim magna exercitation consectetur qui in amet esse cillum laboris quis quis. Cillum deserunt elit quis labore sit nostrud pariatur aliqua duis consequat incididunt aute.\r\n",
+    "tags": [
+      "vehicle",
+      "transport",
+      "small volume",
+      "requires drivers license"
+    ]
+  },
+  {
+    "_id": "5c300dd47428537a543f084b",
+    "guid": "5478e831-bccc-4be6-9ba4-bba7332caadb",
+    "qty": 14,
+    "value": "$2,971.54",
+    "name": "Rubber Mallet",
+    "company": "PERMADYNE",
+    "about": "Voluptate officia cillum do aliquip laboris ut irure labore et exercitation qui nisi ullamco. Occaecat ea consectetur laboris tempor tempor incididunt commodo ullamco reprehenderit exercitation ea culpa dolor consequat. Est pariatur adipisicing sunt Lorem occaecat anim est excepteur esse esse cupidatat eu sint. Magna sunt laboris esse consequat nulla incididunt veniam aute amet nisi. Excepteur sint ea amet culpa mollit eiusmod qui aliqua.\r\n",
+    "tags": [
+      "hand tool",
+      "blunt"
+    ]
+  },
+  {
+    "_id": "5c300dd4dcadfaa9ac686019",
+    "guid": "aab77aac-9749-42ec-8ebf-3f0c311e58ee",
+    "qty": 9,
+    "value": "$852,648.37",
+    "name": "Concrete Mixer",
+    "company": "SLOFAST",
+    "about": "Incididunt aliqua elit ad velit est nulla magna laborum reprehenderit tempor ipsum sunt veniam amet. Quis excepteur esse deserunt sunt consectetur sunt consequat do Lorem commodo ullamco commodo. Do eu aliquip adipisicing sunt adipisicing veniam commodo ea ipsum do commodo ipsum officia cillum. Consequat dolore elit quis ad est exercitation in consequat adipisicing laborum voluptate. Dolor consequat do aliqua do labore et enim sit magna ex minim incididunt laborum. Laborum aliqua laboris proident quis nulla in dolore et Lorem mollit. Cupidatat anim do duis voluptate irure elit.\r\n",
+    "tags": [
+      "vehicle",
+      "large volume",
+      "requires drivers license"
+    ]
+  },
+  {
+    "_id": "5c300dd44b79da4c9e391a7f",
+    "guid": "121c8707-59c2-41e5-b97a-a34c5df8db83",
+    "qty": 155,
+    "value": "$2,565.30",
+    "name": "Cold Beer (6 Pack)",
+    "company": "ACUMENTOR",
+    "about": "Veniam nisi officia qui magna ea ut officia. Duis officia ullamco velit elit esse est duis amet enim. Ad ullamco exercitation tempor eu sunt id laboris irure. Ea sunt in adipisicing tempor ex sint reprehenderit fugiat tempor aliqua est enim. Eu cillum cillum excepteur ut aliquip ipsum sint reprehenderit incididunt fugiat cillum eu laborum minim.\r\n",
+    "tags": [
+      "drinks",
+      "age restricted"
+    ]
+  },
+  {
+    "_id": "5c300dd4f023b8eb3dddf1b4",
+    "guid": "b25b74a3-65c1-40d8-a42e-4351a7dea838",
+    "qty": 1,
+    "value": "$3,159.55",
+    "name": "Power Drill",
+    "company": "OLUCORE",
+    "about": "Sunt occaecat eiusmod dolor est laborum. Aliqua qui ullamco sunt laboris dolor velit magna duis aute est fugiat occaecat consequat id. Amet laborum pariatur id incididunt laboris officia. Voluptate voluptate et mollit nulla consectetur aliquip excepteur. Dolore et esse ex ex fugiat cillum eu esse.\r\n",
+    "tags": [
+      "power tool",
+      "screw gun",
+      "battery powered"
+    ]
+  },
+  {
+    "_id": "5c300dd40642465df326f5c8",
+    "guid": "25f3eeaf-6393-4727-b751-3f67e01041b8",
+    "qty": 5,
+    "value": "$519.63",
+    "name": "jack",
+    "company": "OPTICOM",
+    "about": "Aute fugiat sunt laborum laborum aliqua mollit magna culpa aliqua duis. Pariatur mollit eu laboris consectetur consectetur cillum adipisicing. Labore ullamco dolore sunt reprehenderit officia. Voluptate incididunt duis excepteur commodo et et dolore fugiat reprehenderit.\r\n",
+    "tags": [
+      "lift",
+      "hand powered"
+    ]
+  }
+]

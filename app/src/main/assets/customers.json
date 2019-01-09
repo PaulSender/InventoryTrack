@@ -1,0 +1,95 @@
+[
+  {
+    "index": 0,
+    "isActive": false,
+    "balance": "$0",
+    "name": "Sofia Anthony",
+    "company": "ORBAXTER",
+    "email": "sofiaanthony@orbaxter.com",
+    "phone": "+1 (852) 479-2361",
+    "address": "560 Meeker Avenue, Bordelonville, Ohio, 9130",
+    "registered": "2015-10-01T01:17:03 -00:00",
+    "activeRentals": [
+    ]
+  },
+  {
+    "index": 1,
+    "isActive": true,
+    "balance": "$2,217.45",
+    "name": "Lara Rocha",
+    "company": "SKINSERVE",
+    "email": "lararocha@skinserve.com",
+    "phone": "+1 (817) 453-3951",
+    "address": "503 Crescent Street, Joppa, Puerto Rico, 8514",
+    "registered": "2017-05-04T10:04:21 -00:00",
+    "activeRentals": [
+      {
+        "equipmentID": "5c300dd4317363b8f95510cd",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "isActive": true,
+    "balance": "$108,483.38",
+    "name": "Virginia Hull",
+    "company": "ZILLATIDE",
+    "email": "virginiahull@zillatide.com",
+    "phone": "+1 (816) 554-2834",
+    "address": "103 Congress Street, Glasgow, Utah, 1339",
+    "registered": "2016-05-06T05:40:08 -00:00",
+    "activeRentals": [
+      {
+        "equipmentID": "5c300dd4dcadfaa9ac686019",
+        "qty": 1
+      },
+      {
+        "equipmentID": "5c300dd44b79da4c9e391a7f",
+        "qty": 24
+      },
+      {
+        "equipmentID": "5c300dd4d04c5a19cf4e8972",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "isActive": false,
+    "balance": "$4,857.57",
+    "name": "Hallie Mcdonald",
+    "company": "INEAR",
+    "email": "halliemcdonald@inear.com",
+    "phone": "+1 (846) 600-3877",
+    "address": "909 Butler Place, Bluetown, Oregon, 9858",
+    "registered": "2015-07-06T01:00:07 -00:00",
+    "activeRentals": [
+      {
+        "equipmentID": "5c300dd47428537a543f084b",
+        "qty": 8
+      },
+      {
+        "equipmentID": "5c300dd4f023b8eb3dddf1b4",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "isActive": false,
+    "balance": "$207.85",
+    "name": "Marie Atkins",
+    "company": "AQUASURE",
+    "email": "marieatkins@aquasure.com",
+    "phone": "+1 (926) 488-3230",
+    "address": "407 Bevy Court, Brady, Pennsylvania, 6584",
+    "registered": "2014-05-28T12:46:12 -00:00",
+    "activeRentals": [
+      {
+        "equipmentID": "5c300dd40642465df326f5c8",
+        "qty": 2
+      }
+    ]
+  }
+]
