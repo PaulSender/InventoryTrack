@@ -26,8 +26,7 @@ public class Print extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_print);
         loadJSONFROMAsset();
-
-        CustomerAdapter customerAdapter = new CustomerAdapter(this, numberList);
+       CustomerAdapter customerAdapter = new CustomerAdapter(this, numberList);
        ListView list = findViewById(R.id.customers);
        list.setAdapter(customerAdapter);
 

@@ -8,6 +8,14 @@ public class Item {
     private int quantity;
     private String brand;
     private String description;
+
+    public Item (String name, Double value, int quantity, String brand, String description) {
+        this.name = name;
+        this.value = value;
+        this.quantity = quantity;
+        this.brand = brand;
+        this.description = description;
+    }
     // Add tag array here //
 
     public String getName() {
@@ -49,6 +57,7 @@ public class Item {
     public void setDescription(String description) {
         this.description = description;
     }
+
 
 
 
