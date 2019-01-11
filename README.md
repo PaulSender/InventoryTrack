@@ -16,3 +16,12 @@ a user can view a summary of inventory levels for items remaining in the system 
 2. Clone this GitHub repository.
 3. In Android Studio click File--> New--> Project From Version Control --> GitHub. Paste the link in Git Repository URL.
 4. The Application uses API 21 Lollipop. I prefer the Pixel Emulator and API 28 in the editor. Changing emulators may affect some styling.
+
+#### Viewing the Databse
+The database for this app uses an Android Debug Database
+
+1. Open the application, run it, and make sure it runs.
+2. Since this application was built using an emulator, in Android Studio go to Tools -> SDK Manager -> and copy the path for Android SDK location. 
+3. In CMD paste the path and append \platform-tools\adb forward tcp:8080 tcp:8080 to the path
+  -It should look something like C:\Users\senderp>C:\Users\senderp\AppData\Local\Android\Sdk\platform-tools\adb forward tcp:8080 tcp:8080
+4. Open your browser and navigate to localhost:8080. You should be able to see the Database for the app.
